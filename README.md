@@ -1,4 +1,4 @@
-# Weather Intelligence App
+# Weather Intelligence App - https://weather-intelligence-app-39w.pages.dev/
 
 A lightweight, AI-generated Weather Intelligence App built in Google AI Studio using React and Vite. 
 Users can search for any city to view:
